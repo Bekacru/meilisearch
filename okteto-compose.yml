@@ -3,4 +3,4 @@ services:
   api:
     build: .
     ports:
-       - "5000:5000"
+       - "7700:7700"
